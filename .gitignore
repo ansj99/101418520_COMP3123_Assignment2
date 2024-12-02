@@ -1,0 +1,22 @@
+# Node modules
+backend/node_modules/
+backend/package-lock.json
+backend/.env
+
+# Logs
+backend/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+frontend/node_modules/
+frontend/package-lock.json
+frontend/.env
+
+# Logs
+frontend/*.log
+
+# Docker files
+docker-compose.override.yml
